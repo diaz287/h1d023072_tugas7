@@ -2,8 +2,6 @@
 
 | **Nama** | Khafriza Diaz Permana |
 | **NIM** | H1D023072 |
-| **Deadline** | 23:59 WIB 18 November 2025 |
-
 ---
 
 ## Penjelasan Tiap Bagian Kode
